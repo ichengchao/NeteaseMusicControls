@@ -1,0 +1,2 @@
+# NeteaseMusicControls
+控制网易云音乐的Alfred插件
